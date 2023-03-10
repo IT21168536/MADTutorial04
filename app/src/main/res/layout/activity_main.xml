@@ -22,7 +22,7 @@
         android:id="@+id/textView"
         android:layout_width="259dp"
         android:layout_height="41dp"
-        android:text="enter email"
+        android:text="enter number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.33"
